@@ -11,10 +11,10 @@ h1{
         align-self: auto;
     }
     input[type=text] {
-        width: 15%;
-        padding: 12px 20px;
-        margin: 8px 0;
-        box-sizing: border-box;
+        width: 10%;
+        padding: 4px 10px;
+        margin: 5px 0;
+        box-sizing: content-box;
         align-self: auto;
         font-weight: bold;
         font-size: medium;
